@@ -1,3 +1,4 @@
 # KD83A Keyboard
-![kd83a_image1](https://user-images.githubusercontent.com/106651989/171535229-cffdf2fc-517a-40ca-af4e-0edfd347bc2c.jpg)
-![kd83a_image2](https://user-images.githubusercontent.com/106651989/171535272-83d22255-3d27-43ef-bf8b-c4f24019d128.jpg)
+
+![kd83a_bfg_edition_image 1](https://user-images.githubusercontent.com/106651989/172527722-8062df0f-7556-4f4a-bd2c-e3417e557454.jpg)
+![kd83a_bfg_edition_image 2](https://user-images.githubusercontent.com/106651989/172527729-35c2aef6-23f6-4703-b63f-b7bf321a27fd.jpg)
